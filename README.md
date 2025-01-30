@@ -2,7 +2,7 @@
 
 A Streamlit-based web application that allows users to upload multiple files and analyze them to count the number of tokens using OpenAI's GPT-3.5 tokenizer. This tool is particularly useful for developers and content creators who need to track token usage for GPT model interactions.
 
-URL: https://ct-token-counter.streamlit.app/
+URL - https://ct-token-counter.streamlit.app/ 
 
 ## Features
 
@@ -17,6 +17,8 @@ URL: https://ct-token-counter.streamlit.app/
   - HTML files (.html)
   - CSS files (.css)
   - Markdown files (.md)
+  - Verilog files (.v)
+  - SystemVerilog files (.sv)
 - Real-time token counting using OpenAI's official tokenizer
 - Interactive data table with results
 - Download results as CSV
